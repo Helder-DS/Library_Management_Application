@@ -12,8 +12,6 @@ A Java-based application that allows librarians to manage the lending of books a
 - [Static Methods and Exception Handling](#static-methods-and-exception-handling)
 - [Additional Technical Details](#additional-technical-details)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
