@@ -5,7 +5,6 @@ A Java-based application that allows librarians to manage the lending of books a
 ## Table of Contents
 
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Classes and Object-Oriented Design](#classes-and-object-oriented-design)
 - [Data Structures and Control Flow](#data-structures-and-control-flow)
